@@ -1,4 +1,4 @@
-This is a [Django](https://www.djangoproject.com) example project to use with [`gorunn`](https://github.com/parapidcom/gorunn).
+This is a [Django](https://www.djangoproject.com) example project to use with [`gorunn`](https://github.com/magip-tech/gorunn).
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Create file **mydjango.yaml** with contents :
 
 ```bash
 name: mydjango
-git_repo: git@github.com:parapidcom/gorunn-example-django
+git_repo: git@github.com:magip-tech/gorunn-example-django
 type: python
 version: "3.10"
 endpoint: mydjango.local.gorunn.io
